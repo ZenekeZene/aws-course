@@ -13,7 +13,7 @@
     "seedMasters": "node seedMasters.js masters-devmanolete",
     "deploy": "serverless deploy --aws-profile serverless-local",
     "deploy:sit": "serverless deploy --stage sit",
-    "deploy:prod": "serverless deploy --stage prod"
+    "deploy:prod": "serverless deploy --stage prod" 
   },
   "author": "Vicenc Garcia Altes",
   "license": "MIT",
